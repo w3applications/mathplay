@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.w3applications.mathPlay",
+    "sha256_cert_fingerprints":
+    ["08:35:E6:AD:34:45:25:DC:81:1B:42:F0:97:30:07:96:CC:82:FF:6F:34:B2:9C:96:4C:4E:99:D5:E4:12:FC:69"]
+  }
+}]
