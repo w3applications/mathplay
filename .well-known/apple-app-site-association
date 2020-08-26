@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "com.w3applications.mathPlay",
-                "paths": [ "/challenges*" ]
+                "paths": [ "/challenges/*" ]
             }
         ]
     }
